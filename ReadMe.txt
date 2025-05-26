@@ -1,7 +1,7 @@
 FlatCube
 ========
 
-This is a simple puzzle game I wrote back in 2009. It's a bit like a Rubik's Cube
+This is a simple puzzle game I wrote back in 1997. It's a bit like a Rubik's Cube
 but in 2D instead of 3D. The goal is to move the tiles around until the colours are
 aligned.
 
