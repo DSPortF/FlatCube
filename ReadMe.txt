@@ -16,3 +16,7 @@ Possible future improvements:
 - Add a map to show the original layout
 - Add scoring so the player can try to beat their previous score
 - Add a timer to see how long it takes to solve the puzzle
+
+Things I'd do differently now:
+- Use a more suitable framework than "document/view". It doesn't fit this game well.
+- Don't use magic numbers. If we wanted to change the layout to a 3x4 grid of 5x5 squares it wouldn't be easy.
